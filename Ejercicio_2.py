@@ -1,0 +1,8 @@
+num1 = int(input("introduce tu primer número"))
+num2 = int(input("introduce tu segundo número"))
+print(f"La suma de tus números es {num1 + num2}!")
+print(f"La resta de tus números es {num1 - num2}!")
+print(f"La multiplicación de tus números es {num1 * num2}!")
+print(f"La división de tus números es {num1 / num2}!")
+print(f"El módulo de tus números es {num1 % num2}!")
+print(f"La potencia de tus números es {num1 ** num2}!")
